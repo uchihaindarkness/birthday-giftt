@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Luxurious+Script&family=Twinkle+Star&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body {
+    background-image: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhqb3Q2cTY3b3VhbXZkeHdpeHZsYnQ0cXNuazZoYXo4dTY5bjYyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F02xivpVk39rJjeL4v/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: 1560px;
+}
+    
+
+h2 {
+    padding: 100px;
+    text-align: center;
+    font-family: "Delius", cursive;
+}
+
+
+span {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20pt;
+    align-items: center;
+    text-align: center;
+    font-size: large;
+    text-align: center;
+
+}
+
+.btn a {
+    text-decoration: none;
+    color: #111;
+    background: #fff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: 0.5rem 1rem 3rem hsl(0, 0%, 0%, 0.3);
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: right;
+    font-family: "Luxurious Script", cursive;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.container .btn {
+    display: flex;
+    gap: 25px;
+}
+
+.img {
+     margin: 0;
+    padding: 0;
+ width: 450px;
+}
